@@ -1,2 +1,6 @@
 config: 
+<<<<<<< HEAD
 11 info: masterinfo4
+=======
+ info: devinfo
+>>>>>>> origin/dev
